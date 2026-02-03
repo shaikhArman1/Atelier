@@ -36,3 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 <!-- commit-log: 2026-02-02T20:28:28 - style: update color palette and spacing tokens -->
+
+<!-- commit-log: 2026-02-03T10:16:07 - chore: configure ESLint rules for consistency -->
