@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-02-02T20:28:28 - style: update color palette and spacing tokens -->
 
 <!-- commit-log: 2026-02-03T10:16:07 - chore: configure ESLint rules for consistency -->
+
+<!-- commit-log: 2026-02-08T22:18:49 - fix: resolve stale closure in useEffect hook -->
