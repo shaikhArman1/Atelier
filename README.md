@@ -46,3 +46,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-02-15T16:45:02 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-02-18T18:17:09 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-02-20T13:20:39 - style: add micro-animations for better UX -->
