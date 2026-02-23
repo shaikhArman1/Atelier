@@ -48,3 +48,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-02-18T18:17:09 - feat: improve responsive layout for mobile screens -->
 
 <!-- commit-log: 2026-02-20T13:20:39 - style: add micro-animations for better UX -->
+
+<!-- commit-log: 2026-02-23T19:52:03 - style: add micro-animations for better UX -->
