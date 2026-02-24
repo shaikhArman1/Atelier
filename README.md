@@ -50,3 +50,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-02-20T13:20:39 - style: add micro-animations for better UX -->
 
 <!-- commit-log: 2026-02-23T19:52:03 - style: add micro-animations for better UX -->
+
+<!-- commit-log: 2026-02-24T18:05:02 - refactor: convert class component to functional with hooks -->
