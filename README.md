@@ -54,3 +54,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-02-24T18:05:02 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-03-03T09:13:20 - feat: add loading skeleton for async data -->
+
+<!-- commit-log: 2026-03-08T20:33:18 - fix: correct date formatting in display components -->
