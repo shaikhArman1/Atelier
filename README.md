@@ -66,3 +66,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-03-24T09:18:27 - feat: implement pagination for large data sets -->
 
 <!-- commit-log: 2026-05-08T09:32:01 - style: improve button hover transitions -->
+
+<!-- commit-log: 2026-05-08T14:41:24 - fix: resolve stale closure in useEffect hook -->
