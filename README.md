@@ -72,3 +72,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-05-08T14:41:14 - feat: add form validation with error messages -->
 
 <!-- commit-log: 2026-05-08T19:49:07 - refactor: extract reusable Card component -->
+
+<!-- commit-log: 2026-05-08T21:17:11 - refactor: split large component into sub-components -->
