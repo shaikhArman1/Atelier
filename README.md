@@ -76,3 +76,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-05-08T21:17:11 - refactor: split large component into sub-components -->
 
 <!-- commit-log: 2026-05-08T22:15:18 - feat: add dark mode toggle support -->
+
+<!-- commit-log: 2026-06-02T21:44:02 - fix: correct date formatting in display components -->
