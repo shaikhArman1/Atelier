@@ -84,3 +84,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-06-08T14:02:12 - fix: correct z-index layering on modal overlay -->
 
 <!-- commit-log: 2026-06-08T15:36:17 - feat: add loading skeleton for async data -->
+
+<!-- commit-log: 2026-06-08T17:19:10 - fix: resolve state update causing unnecessary re-renders -->
