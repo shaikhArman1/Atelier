@@ -88,3 +88,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-06-08T17:19:10 - fix: resolve state update causing unnecessary re-renders -->
 
 <!-- commit-log: 2026-06-08T18:34:40 - style: improve button hover transitions -->
+
+<!-- commit-log: 2026-06-08T19:28:30 - feat: improve responsive layout for mobile screens -->
