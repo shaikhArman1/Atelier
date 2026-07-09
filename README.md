@@ -94,3 +94,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-09T09:54:25 - refactor: split large component into sub-components -->
 
 <!-- commit-log: 2026-07-09T10:58:27 - feat: add form validation with error messages -->
+
+<!-- commit-log: 2026-07-09T16:07:02 - style: update color palette and spacing tokens -->
