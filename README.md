@@ -90,3 +90,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-06-08T18:34:40 - style: improve button hover transitions -->
 
 <!-- commit-log: 2026-06-08T19:28:30 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-07-09T09:54:25 - refactor: split large component into sub-components -->
