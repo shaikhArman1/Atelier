@@ -98,3 +98,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-09T16:07:02 - style: update color palette and spacing tokens -->
 
 <!-- commit-log: 2026-07-09T17:53:33 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-07-09T18:03:46 - refactor: extract reusable Card component -->
