@@ -104,3 +104,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-09T19:31:30 - refactor: extract reusable Card component -->
 
 <!-- commit-log: 2026-07-11T13:29:06 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-07-11T18:25:00 - style: improve button hover transitions -->
