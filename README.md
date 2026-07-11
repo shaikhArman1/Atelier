@@ -110,3 +110,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-11T20:54:29 - feat: add loading skeleton for async data -->
 
 <!-- commit-log: 2026-07-11T22:07:31 - refactor: extract reusable Card component -->
+
+<!-- commit-log: 2026-07-11T22:51:06 - refactor: convert class component to functional with hooks -->
