@@ -114,3 +114,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-11T22:51:06 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-07-13T09:21:40 - fix: handle empty state in list components -->
+
+<!-- commit-log: 2026-07-13T13:16:36 - feat: add loading skeleton for async data -->
