@@ -120,3 +120,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-13T14:22:13 - fix: correct z-index layering on modal overlay -->
 
 <!-- commit-log: 2026-07-13T17:46:09 - feat: improve responsive layout for mobile screens -->
+
+<!-- commit-log: 2026-07-13T19:11:39 - refactor: convert class component to functional with hooks -->
