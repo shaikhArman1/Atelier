@@ -118,3 +118,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-13T13:16:36 - feat: add loading skeleton for async data -->
 
 <!-- commit-log: 2026-07-13T14:22:13 - fix: correct z-index layering on modal overlay -->
+
+<!-- commit-log: 2026-07-13T17:46:09 - feat: improve responsive layout for mobile screens -->
