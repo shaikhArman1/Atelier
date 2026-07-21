@@ -124,3 +124,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-13T19:11:39 - refactor: convert class component to functional with hooks -->
 
 <!-- commit-log: 2026-07-13T19:47:48 - fix: handle empty state in list components -->
+
+<!-- commit-log: 2026-07-21T15:36:13 - feat: add keyboard navigation support -->
