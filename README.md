@@ -126,3 +126,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-13T19:47:48 - fix: handle empty state in list components -->
 
 <!-- commit-log: 2026-07-21T15:36:13 - feat: add keyboard navigation support -->
+
+<!-- commit-log: 2026-08-09T14:45:37 - refactor: extract reusable Card component -->
