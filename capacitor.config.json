@@ -1,0 +1,8 @@
+{
+  "appId": "com.atelier.interiorapp",
+  "appName": "Atelier",
+  "webDir": "out",
+  "server": {
+    "androidScheme": "https"
+  }
+}
