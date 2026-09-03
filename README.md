@@ -128,3 +128,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-07-21T15:36:13 - feat: add keyboard navigation support -->
 
 <!-- commit-log: 2026-08-09T14:45:37 - refactor: extract reusable Card component -->
+
+<!-- commit-log: 2026-09-03T12:16:37 - fix: correct z-index layering on modal overlay -->
