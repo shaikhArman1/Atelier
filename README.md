@@ -134,3 +134,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-09-03T17:35:04 - refactor: split large component into sub-components -->
 
 <!-- commit-log: 2026-09-03T18:18:41 - chore: update package.json dependencies -->
+
+<!-- commit-log: 2026-09-03T20:33:32 - fix: correct date formatting in display components -->
