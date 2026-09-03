@@ -132,3 +132,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- commit-log: 2026-09-03T12:16:37 - fix: correct z-index layering on modal overlay -->
 
 <!-- commit-log: 2026-09-03T17:35:04 - refactor: split large component into sub-components -->
+
+<!-- commit-log: 2026-09-03T18:18:41 - chore: update package.json dependencies -->
